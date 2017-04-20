@@ -2,7 +2,7 @@
 //  DetailViewController.swift
 //  MisRecetas
 //
-//  Created by Cristian Fernández on 26/03/2017.
+//  Created by Cristian Fernández on 26/04/2017.
 //  Copyright © 2017 Cristian Fernández. All rights reserved.
 //
 
